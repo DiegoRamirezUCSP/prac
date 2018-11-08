@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1540340055 source:c:\users\mi pc\desktop\trabajo final\src\jugador.cpp
+	"jugador.h"
+
+1540339394 source:c:\users\mi pc\desktop\trabajo final\src\objetos.cpp
+	"objetos.h"
+
+1540339387 c:\users\mi pc\desktop\trabajo final\include\objetos.h
+	"jugador.h"
+
+1540339969 c:\users\mi pc\desktop\trabajo final\include\jugador.h
+
+1540339706 source:c:\users\mi pc\desktop\trabajo final\main.cpp
+	<iostream>
+
+1541648740 source:c:\users\mi pc\desktop\trabajofinal\src\jugador.cpp
+
+1541649011 c:\users\mi pc\desktop\trabajofinal\include\jugador.h
+	<iostream>
+
+1541649018 source:c:\users\mi pc\desktop\trabajofinal\main.cpp
+	<iostream>
+	"jugador.h"
+	"objetos.h"
+
+1541649375 source:c:\users\mi pc\desktop\trabajofinal\src\objetos.cpp
+	<iostream>
+	"jugador.h"
+
+1541371582 c:\users\mi pc\desktop\trabajofinal\include\objetos.h
+	"jugador.h"
+
