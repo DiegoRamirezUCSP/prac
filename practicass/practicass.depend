@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1541645106 source:c:\users\mi pc\desktop\practicass\main.cpp
+	<iostream>
+	"Animals.h"
+	"Perro.h"
+	"gato.h"
+	"loro.h"
+	"Animalarray.h"
+	"Animals3.h"
+
+1541633053 source:c:\users\mi pc\desktop\practicass\src\animals.cpp
+
+1541638892 c:\users\mi pc\desktop\practicass\include\animals.h
+	<iostream>
+
+1541551108 source:c:\users\mi pc\desktop\practicass\src\perro.cpp
+	"Perro.h"
+
+1541637343 c:\users\mi pc\desktop\practicass\include\perro.h
+	"Animals.h"
+	<iostream>
+
+1541559298 source:c:\users\mi pc\desktop\practicass\src\gato.cpp
+
+1541630707 c:\users\mi pc\desktop\practicass\include\gato.h
+	"Animals.h"
+	<iostream>
+
+1541630682 source:c:\users\mi pc\desktop\practicass\src\loro.cpp
+
+1541631851 c:\users\mi pc\desktop\practicass\include\loro.h
+	"Animals.h"
+	<iostream>
+
+1541637343 source:c:\users\mi pc\desktop\practicass\src\animals3.cpp
+
+1541645068 source:c:\users\mi pc\desktop\practicass\src\animalarray.cpp
+	"Animalarray.h"
+	"Animals3.h"
+	<iostream>
+
+1541645086 c:\users\mi pc\desktop\practicass\include\animalarray.h
+	"Animals3.h"
+	<iostream>
+
+1541645597 c:\users\mi pc\desktop\practicass\include\animals3.h
+	<iostream>
+
